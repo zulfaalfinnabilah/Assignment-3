@@ -1,0 +1,36 @@
+
+*{
+    margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+	list-style: none;
+	font-family: 'Courier New', Courier, monospace;   
+}
+
+body{
+    background-image: url(image/sea.png);
+    background-size: cover;
+}
+
+ h1{
+  color: rgb(68, 116, 90);
+  justify-content: center;
+  font-weight: bold;
+ }
+
+ p{
+  color: rgb(70, 56, 41);
+ }
+
+ input{
+  border-radius: 70px ;
+  padding-left: 30px ;
+  border: rgb(93, 130, 93) ;
+  background-color: #68d58e;
+}
+button{
+  border-radius: 70px;
+  width: 50%;
+  font-weight: 600 ;
+}
